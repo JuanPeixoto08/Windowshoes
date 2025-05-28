@@ -8,8 +8,6 @@ body {
   font-family: "Courier New";
 }
 
-
-
 div {
   width: 400px;
   height: 200px;
@@ -26,13 +24,13 @@ html {  background: linear-gradient(145deg, #0b0606, #0c0c0c);
       height: 80px;
       padding: 10px 20px;
     }
-      .logo {
-      position: absolute;
-      top: 10px;
-      left: 20px;
-      height: 60px; 
-      cursor: pointer;
-    }
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  height: 60px; 
+  cursor: pointer;
+}
 
 .boton-elegante {
   display: inline-block;
