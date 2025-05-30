@@ -18,8 +18,11 @@ div {
   text-align: center;
   box-shadow: 0 0 20px #9b00ff;
 }
-html {  background: linear-gradient(145deg, #0b0606, #0c0c0c);
+
+html {  
+  background: linear-gradient(145deg, #0b0606, #0c0c0c);
 }
+
  header {
       height: 80px;
       padding: 10px 20px;

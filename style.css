@@ -75,6 +75,7 @@ nav ul li a:hover {
     text-decoration: none;
     font-weight: bold;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .login-btn .botao-login:hover {
